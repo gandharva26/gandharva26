@@ -13,7 +13,6 @@
 - 🌐 &nbsp; HTML | CSS | Node.Js | React | Angular
 - 🛢 &nbsp; MySQL | MongoDB |
 - 🔧 &nbsp; Intellij IDE | PyCharm | Visual Studio code | Netbeans | Git
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
 
 <br>
 
