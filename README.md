@@ -5,6 +5,7 @@
 - 🔭 &nbsp; Master's in Computer Science, University of California Riverside
 - 🤔 &nbsp; An avid problem solver and an efficient communicator, focussed on delivering goals keeping the customer first
 - 💼 &nbsp; Software Engineer, Data Analyst, Researcher, Open source contributor but at the bottom of all of it an inquisitive individual 
+- Check out my research - https://github.com/AutomataLab/JSONSki_nodejs
 
 
 <h3>🛠 Tech Stack</h3>
