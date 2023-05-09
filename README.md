@@ -2,9 +2,9 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; Master's in Computer Science, University of California Riverside
-- 🤔 &nbsp; An avid problem solver and an efficient communicator, focussed on delivering goals keeping the customer first
-- 💼 &nbsp; Software Engineer, Data Analyst, Researcher, Open source contributor but at the bottom of all of it an inquisitive individual 
+A Software Engineer with 2 years of experience building Full stack Web Applications. I received my Master's degree in Computer Science from the University of California, Riverside under the supervision of Prof. Zhijia Zhao. The main focus of my Master's research was the parallelization of semi-structured data querying (eg: JSON). As a part of my Master's thesis, I developed optimized Javascript solutions (npm library and VSCode Extension) for JSONSki which is a streaming parser originally written in C++ used for querying JSON data.
+
+I have industry experience in developing full-stack applications using Javascript-based frameworks like React/ Angular and with backends like Node.js and PHP. I have worked with databases like MySQL and MongoDB. Further, I also have experience analyzing and modeling data using, SQL, SAS, and Python. 
 
 <h3>🛠 Tech Stack</h3>
 
