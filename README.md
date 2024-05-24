@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-A Software Engineer with 4+ years of experience building Full stack Web Applications. I received my Master's degree in Computer Science from the University of California, Riverside under the supervision of Prof. Zhijia Zhao. The main focus of my Master's research was the parallelization of semi-structured data querying (eg: JSON). As a part of my Master's thesis, I developed optimized Javascript solutions (npm library and VSCode Extension) for JSONSki which is a streaming parser originally written in C++ used for querying JSON data.
+A Software Engineer with 5+ years of experience building Full stack Web Applications. I received my Master's degree in Computer Science from the University of California, Riverside under the supervision of Prof. Zhijia Zhao. The main focus of my Master's research was the parallelization of semi-structured data querying (eg: JSON). As a part of my Master's thesis, I developed optimized Javascript solutions (npm library and VSCode Extension) for JSONSki which is a streaming parser originally written in C++ used for querying JSON data.
 
 
 <h3>🛠 Tech Stack</h3>
