@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-A Software Engineer with 5+ years of experience building Full stack Web Applications. I received my Master's degree in Computer Science from the University of California, Riverside under the supervision of Prof. Zhijia Zhao. The main focus of my Master's research was the parallelization of semi-structured data querying (eg: JSON). As a part of my Master's thesis, I developed optimized Javascript solutions (npm library and VSCode Extension) for JSONSki which is a streaming parser originally written in C++ used for querying JSON data.
+I received my Master's degree in Computer Science from the University of California, Riverside under the supervision of Prof. Zhijia Zhao. The main focus of my Master's research was the parallelization of semi-structured data querying (eg: JSON). As a part of my Master's thesis, I developed optimized Javascript solutions (npm library and VSCode Extension) for JSONSki which is a streaming parser originally written in C++ used for querying JSON data.
 
 
 <h3>🛠 Tech Stack</h3>
@@ -13,8 +13,6 @@ A Software Engineer with 5+ years of experience building Full stack Web Applicat
 - 🔧 &nbsp; Intellij IDE | PyCharm | Visual Studio code | Netbeans | Git
 
 <br>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=gandharva26&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Gandharva's Github Stats">
 
 </br>
 
